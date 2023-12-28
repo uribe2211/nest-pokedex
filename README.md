@@ -19,7 +19,10 @@ npm install -g @nestjs/cli
 ```
 docker-compose up -d 
 ```
-
+5. Recargar o reconstruir la base de datos
+```
+localhost:3000/api/v2/seed
+```
 # Stack usado
 
 * NestJS
